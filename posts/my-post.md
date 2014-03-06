@@ -1,8 +1,8 @@
 ---
-permalink: hello-project
-title: Hello, project
-languages: []
-summary: A brief introduction to this project.
+permalink: my-great-post
+title: Great, Post
+languages: [js]
+summary: A great post
 published: false
 project: coderbase
 
